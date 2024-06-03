@@ -1,3 +1,6 @@
+<p>
+<img src="assets/images/bg5.jpg" width="100%" alt="Weather Image two People with a umbrella">
+</p>
 
 <h1 align="center"> <i><b>Hi , I'm STANISLAS TRAORE </b></i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
