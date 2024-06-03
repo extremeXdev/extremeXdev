@@ -1,11 +1,6 @@
 
 <h1 align="center"> <i><b>Hi , I'm STANISLAS TRAORE </b></i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--  -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=55&duration=2000&pause=400&color=5FFF44&background=000000&center=true&vCenter=true&multiline=true&random=false&width=1300&height=430&lines=%40extremeXdev;%3E+echo+%22At+The+very+beginning+The+Creator+himself+is+a+ALGORIST.;We've+been+build+FROM+SCRATCH+as+automata;to+OPTIMISE++his+great+CODE%3A+The+%3CUniverse%2F%3E;Together+we+can!+%22;%3E+push-back++%22the+limits+of+that+awesome+%7BEnvironment%7D..............%22;+;+" alt="Typing SVG" /></a>
-</p>
-
 
 <br>
 
@@ -36,6 +31,11 @@
 
 <br>
 <br>
+
+<!--  -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=55&duration=2000&pause=400&color=5FFF44&background=000000&center=true&vCenter=true&multiline=true&random=false&width=1300&height=430&lines=%40extremeXdev;%3E+echo+%22At+The+very+beginning+The+Creator+himself+is+a+ALGORIST.;We've+been+build+FROM+SCRATCH+as+automata;to+OPTIMISE++his+great+CODE%3A+The+%3CUniverse%2F%3E;Together+we+can!+%22;%3E+push-back++%22the+limits+of+that+awesome+%7BEnvironment%7D..............%22;+;+" alt="Typing SVG" /></a>
+</p>
 
 <!-- Copyright ©ExtremeXdev  -->
 <p align="center">
