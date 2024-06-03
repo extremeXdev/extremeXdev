@@ -33,7 +33,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=extremeXdev&repo=weather-app" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=extremeXdev&repo=Supreme-Trader-EA" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=extremeXdev&repo=supreme-trader-ea" />
 </a>
 
 [![extremXdev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=extremeXdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
