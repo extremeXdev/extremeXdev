@@ -58,5 +58,5 @@
 
 <!-- Footer  -->
 <div align=center>
-  <img  height=160px width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=145&section=footer"/>
+  <img  height=150px width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=145&section=footer"/>
 </div>
