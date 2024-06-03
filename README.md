@@ -58,5 +58,5 @@
 
 
 <div align=center>
-  <img  height=170px width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
+  <img  height=170px width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </div>
