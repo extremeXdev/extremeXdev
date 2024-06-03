@@ -40,6 +40,7 @@
 
 [![extremXdev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=extremeXdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extremeXdev&hide_progress=true)
 <br>
 <br>
 
