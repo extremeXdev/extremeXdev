@@ -39,5 +39,5 @@
 
 <!-- Copyright ©ExtremeXdev  -->
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+128+Text&size=44&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=700&height=200&lines=Copyright%C2%A9extremeXdev+2024)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+128+Text&size=44&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=700&height=200&lines=Copyright%C2%A9extremeXdev+2024" alt="Typing SVG" /></a>
 </p>
