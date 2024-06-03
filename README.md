@@ -9,7 +9,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50></picture> **About me**
 
-<picture> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjB0dHJmNW43OGV5dWF2ZmM4ZXNvYmU1OTVmdXgzbHU3aXowcXc3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VuZhSgPi5ItibCdSoZ/giphy.gif" style="background:rgba(0,0,0,0)" width="200px"></picture>
+<picture> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjB0dHJmNW43OGV5dWF2ZmM4ZXNvYmU1OTVmdXgzbHU3aXowcXc3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VuZhSgPi5ItibCdSoZ/giphy.gif" style="background:rgba(0,0,0,0)" width="200px" margin-right="5em"></picture>
 
 <br>
 
