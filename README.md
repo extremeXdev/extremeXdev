@@ -9,7 +9,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjB0dHJmNW43OGV5dWF2ZmM4ZXNvYmU1OTVmdXgzbHU3aXowcXc3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VuZhSgPi5ItibCdSoZ/giphy.gif" style="background:rgba(0,0,0,0)" width="200px"></picture>
 
 <br>
 
@@ -21,8 +21,6 @@
 - Opened for Hiring or FreeLance Service (on seat or remote), this is my [resume](https://read.cv/0xabd)
 
 <br><br>
-
-<img class="giphy-gif-img giphy-img-loaded" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjB0dHJmNW43OGV5dWF2ZmM4ZXNvYmU1OTVmdXgzbHU3aXowcXc3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VuZhSgPi5ItibCdSoZ/giphy.gif" style="background:rgba(0,0,0,0)" width="200px" height="auto" alt="Go Software Development Sticker by Sigma Software"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
