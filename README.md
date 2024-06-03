@@ -25,9 +25,6 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
-<p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>To all those data scientist: I love connecting with like-minded people</b> so if you wanna say <b>hi, I'll be happy to meet you more!</b> :)</em>
-</p>
 -----
 
 <!-- 
