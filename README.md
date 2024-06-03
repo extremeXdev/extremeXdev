@@ -23,7 +23,7 @@
 - Full-Stack Mobile Apps Developer (Android, iOS)
 - Algorist and Database Engeneering Lover.
 - Machine Learning Study Passionate.
-- Opened for Hiring or FreeLance Service (on seat or remote) for an Intern or a new job opportunity, this is my [resume](https://read.cv/0xabd)
+- Opened for Hiring or FreeLance Service (on seat or remote), this is my [resume](https://read.cv/0xabd)
 
 <br><br>
 
