@@ -52,13 +52,11 @@
 
 <!-- Copyright ©ExtremeXdev  -->
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+128+Text&size=38&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=370&height=65&lines=COPYRIGHT%C2%A9extremeXdev+2024" alt="Typing SVG" /></a>
   
 </p>
 
 <!-- Footer  -->
 <div align=center>
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+128+Text&size=38&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=370&height=65&lines=COPYRIGHT%C2%A9extremeXdev+2024" alt="Typing SVG" /></a>
-  
-  <img  height=160px width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=145&section=footer"/>
+  <img  height="150px" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=145&section=footer"/>
 </div>
