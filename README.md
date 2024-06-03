@@ -30,7 +30,7 @@
 -----
 
 
-[![extremXdev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username="extremeXdev"&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![extremXdev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=extremexdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
