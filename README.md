@@ -11,16 +11,16 @@
 </div>
 <!-- -->
 
+<!-- Header  -->
+<div align=center>
+  <img  height=150px width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=extremeXdev"/>
+</div>
+<!-- -->
+
 <!-- -->
 <h2>
 <picture><img align="right" src= "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50></picture> <i>About me</i>
 </h2>
-<!-- -->
-
-<!-- Footer  -->
-<div align=center>
-  <img  height=150px width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=extremeXdev"/>
-</div>
 <!-- -->
 
 <!-- -->
