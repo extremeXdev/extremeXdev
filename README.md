@@ -12,8 +12,8 @@
 <!-- -->
 
 <!-- -->
-<h2 align="left">
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50></picture> About me
+<h2>
+<picture align="right"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50></picture> About me
 </h2>
 <!-- -->
 
