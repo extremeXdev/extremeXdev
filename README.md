@@ -23,7 +23,6 @@
 
 
 <!-- -->
-<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hud202ZXIxMzN2dzV5MjR6NmJ0c2JqMm53N3c3eGxlbmZuMmNzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N4h9A9o5TcWmjdQZVJ/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -46,12 +45,13 @@ const extremeXdev = {
   apps: [Android, IOS],
   codeBack: [NodeJS, NestJS, PHP],
   codeNative: [C, Cpp, Python, GoLang],
+  DB: [MySql, MongoDB, SQLite],
   othersLang: {
                QML:  "Qt Modeling Language",
                MQL5: "MetaQuote Language5",
                MD:   "Markdown"
               },
-  tools: [Docker, Git, Github],
+  tools: [Docker, Git, Github, Trello],
   IDE: [VisualStudio, PyCharm, QtCreator, MetaEditor5],
   architecture: ["microservices", "event-driven", "design system pattern"],
   
