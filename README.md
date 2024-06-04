@@ -18,7 +18,7 @@
 <picture> <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2o4OTI4OXZlczF1MG81NzlpcXd0amg5MzB0ZW1tcGhvOTBsdXEyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.gif" style="background:rgba(0,0,0,0)" width="200px">
 </picture>
 
-<b> <i>Hi , I'm STANISLAS TRAORE</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> </b> 
+<b> <i>Hi , I'm STANISLAS TRAORE</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23"/> </b> 
 <br>
 - A passionate Front-end Developer <br/>
 - Ignited Financial Technology Developper for Metaquotes. <br/>
