@@ -8,13 +8,17 @@
 <img src="assets/images/bg5.jpg" width="100%" alt="Back Image extremexdev github">
 <!-- -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15+Charted&size=33&pause=1000&color=25D2DC&vCenter=true&random=false&width=600&height=70&lines=%3E+Passionate+Front-end+%3CDeveloper%2F%3E;%3E+Taste+For+Beautiful+UI%2FUX;%3E+Passionate+NodeJS+%7BBackend%7D+Developer;%3E+Skilled+Fintech++Developer+Metaquotes;%3E+Artificial+Intelligence+algorithms+as+Hobbies;%3E+Algorist+%26+Genius+Data+Scientist;%3E+Software+Innovator+and+curious+coder;%3E+Force+of+procedural+codes+From+Scratch;%3E+slogan%3A+With+less+we+can+do+More!;%3E+Everything+is+possible+thinking+algorithms;%3E+Logic+is+Everything%3A+010100010011111" alt="Typing SVG" /></a>
+
+<picture align="right"><img  src= "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50>About me</picture> 
+
+
 </div>
 <!-- -->
-
-<!-- -->
 <h2>
-<span align="right"><img  src= "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50>About me</span> 
+.
 </h2>
+<!-- -->
+
 <!-- -->
 
 <!-- -->
