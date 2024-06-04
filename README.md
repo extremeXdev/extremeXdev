@@ -23,9 +23,16 @@
 
 <!-- -->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50></picture> **About me**
-
+<!--
 <picture margin-right="100px"> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjB0dHJmNW43OGV5dWF2ZmM4ZXNvYmU1OTVmdXgzbHU3aXowcXc3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VuZhSgPi5ItibCdSoZ/giphy.gif" style="background:rgba(0,0,0,0)" width="200px">
 </picture>
+-->
+
+
+<!-- -->
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hud202ZXIxMzN2dzV5MjR6NmJ0c2JqMm53N3c3eGxlbmZuMmNzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N4h9A9o5TcWmjdQZVJ/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 <br>
 
@@ -36,18 +43,6 @@
 - Machine Learning Study Passionate.
 - Opened for Hiring or FreeLance Service (on seat or remote), this is my [resume](https://read.cv/extremexdev)
 
-<br><br>
-<!-- -->
-
-
-<!-- -->
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hud202ZXIxMzN2dzV5MjR6NmJ0c2JqMm53N3c3eGxlbmZuMmNzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N4h9A9o5TcWmjdQZVJ/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
