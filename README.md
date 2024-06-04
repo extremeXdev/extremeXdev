@@ -8,9 +8,6 @@
 <img src="assets/images/bg5.jpg" width="100%" alt="Weather Image two People with a umbrella">
 </p>
 
-    
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50></picture> **About me**
-
 <p>
 <!-- <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">Hi , I'm STANISLAS TRAORE</span> -->
 </p>
