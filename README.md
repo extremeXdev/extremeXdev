@@ -9,6 +9,7 @@
 </p>
 
 <p>
+<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">INSPIRATION DAY</span>
 <span color="red" >Hi , I'm STANISLAS TRAORE </span>
 </p>
 
