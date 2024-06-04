@@ -15,7 +15,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50></picture> **About me**
 
 <div>
-<picture> <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjB0dHJmNW43OGV5dWF2ZmM4ZXNvYmU1OTVmdXgzbHU3aXowcXc3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VuZhSgPi5ItibCdSoZ/giphy.gif" style="background:rgba(0,0,0,0)" width="200px">
+<picture> <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2o4OTI4OXZlczF1MG81NzlpcXd0amg5MzB0ZW1tcGhvOTBsdXEyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.gif" style="background:rgba(0,0,0,0)" width="200px">
 </picture>
 
 <h2> <i>Hi , I'm STANISLAS TRAORE</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> </h2> 
