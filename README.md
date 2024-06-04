@@ -5,21 +5,15 @@
 <body>
 
 <p>
-<img src="assets/images/bg5.jpg" width="100%" alt="Weather Image two People with a umbrella">
+<img src="assets/images/bg5.jpg" width="100%" alt="Back Image extremexdev github">
 </p>
 
-    
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50></picture> **About me**
-
-<p>
-<!-- <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">Hi , I'm STANISLAS TRAORE</span> -->
-</p>
-
-<h1> <span style="font-size:100px;"><i>Hi , I'm STANISLAS TRAORE</i> </span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15+Charted&size=33&pause=1000&color=25D2DC&vCenter=true&random=false&width=600&height=70&lines=%3E+Passionate+Front-end+%3CDeveloper%2F%3E;%3E+Taste+For+Beautiful+UI%2FUX;%3E+Passionate+NodeJS+%7BBackend%7D+Developer;%3E+Skilled+Fintech++Developer+Metaquotes;%3E+Artificial+Intelligence+algorithms+as+Hobbies;%3E+Algorist+%26+Genius+Data+Scientist;%3E+Software+Innovator+and+curious+coder;%3E+Force+of+procedural+codes+From+Scratch;%3E+slogan%3A+With+less+we+can+do+More!;%3E+Everything+is+possible+thinking+algorithms;%3E+Logic+is+Everything%3A+010100010011111" alt="Typing SVG" /></a>
+<!-- -->
+<h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15+Charted&size=33&pause=1000&color=25D2DC&vCenter=true&random=false&width=600&height=70&lines=%3E+Passionate+Front-end+%3CDeveloper%2F%3E;%3E+Taste+For+Beautiful+UI%2FUX;%3E+Passionate+NodeJS+%7BBackend%7D+Developer;%3E+Skilled+Fintech++Developer+Metaquotes;%3E+Artificial+Intelligence+algorithms+as+Hobbies;%3E+Algorist+%26+Genius+Data+Scientist;%3E+Software+Innovator+and+curious+coder;%3E+Force+of+procedural+codes+From+Scratch;%3E+slogan%3A+With+less+we+can+do+More!;%3E+Everything+is+possible+thinking+algorithms;%3E+Logic+is+Everything%3A+010100010011111" alt="Typing SVG" /></a>
 </h1>
 </p>
 <br>
-
+<!-- -->
 
 <!-- -->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50></picture> **About me**
@@ -27,21 +21,22 @@
 <div>
 <picture> <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjB0dHJmNW43OGV5dWF2ZmM4ZXNvYmU1OTVmdXgzbHU3aXowcXc3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VuZhSgPi5ItibCdSoZ/giphy.gif" style="background:rgba(0,0,0,0)" width="200px">
 </picture>
-
+<span style="font-size:100px;"><i>Hi , I'm STANISLAS TRAORE</i> </span> 
 <br>
-<p>
-- A passionate Front-end developer <br/>
+- A passionate Front-end Developer <br/>
 - Ignited Financial Technology Developper for Metaquotes. <br/>
 - Full-Stack Mobile Apps Developer (Android, iOS) <br/>
 - Algorist and Database Engeneering Lover. <br/>
 - Machine Learning Study Passionate. <br/>
-- Opened for Hiring or FreeLance Service (on seat or remote), this is my [resume](https://read.cv/extremexdev) <br/>
-</p>
+- Opened for Hiring or FreeLance Service (on seat or remote), this is my <a href="https://read.cv/extremexdev">Resume<a/>
 </div>
 <!-- -->
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hud202ZXIxMzN2dzV5MjR6NmJ0c2JqMm53N3c3eGxlbmZuMmNzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N4h9A9o5TcWmjdQZVJ/giphy.gif" width="230">
 
+<!-- -->
+<div>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hud202ZXIxMzN2dzV5MjR6NmJ0c2JqMm53N3c3eGxlbmZuMmNzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N4h9A9o5TcWmjdQZVJ/giphy.gif" width="230">
+</div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
