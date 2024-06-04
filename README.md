@@ -15,6 +15,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50></picture> **About me**
 
 <div>
+<br>
 <picture> <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2o4OTI4OXZlczF1MG81NzlpcXd0amg5MzB0ZW1tcGhvOTBsdXEyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.gif" style="background:rgba(0,0,0,0)" width="200px">
 </picture>
 
