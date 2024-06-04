@@ -11,12 +11,6 @@
 </div>
 <!-- -->
 
-<!-- Header  -->
-<div align=center>
-  <img  height=150px width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=extremeXdev"/>
-</div>
-<!-- -->
-
 <!-- -->
 <h2>
 <picture><img align="right" src= "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50></picture> <i>About me</i>
@@ -99,9 +93,18 @@ const extremeXdev = {
 ```
 <!-- -->
 
+
+<!-- Header  -->
+<div align=center>
+  <img  height=150px width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=extremeXdev"/>
+</div>
+<!-- -->
+
+<!-- -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
+<!-- -->
 -----
 
 <!-- 
