@@ -17,6 +17,12 @@
 </h2>
 <!-- -->
 
+<!-- Footer  -->
+<div align=center>
+  <img  height=150px width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=extremeXdev"/>
+</div>
+<!-- -->
+
 <!-- -->
 <div>
 <br>
