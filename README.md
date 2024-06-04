@@ -13,7 +13,7 @@
 
 <!-- -->
 <h2>
-<picture><img align="right" src= "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50></picture> About me
+<span align="right"><img  src= "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50>About me</span> 
 </h2>
 <!-- -->
 
