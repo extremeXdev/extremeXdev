@@ -8,6 +8,9 @@
 <img src="assets/images/bg5.jpg" width="100%" alt="Weather Image two People with a umbrella">
 </p>
 
+    
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50></picture> **About me**
+
 <p>
 <!-- <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">Hi , I'm STANISLAS TRAORE</span> -->
 </p>
@@ -20,23 +23,22 @@
 
 <!-- -->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50></picture> **About me**
-<!--
-<picture margin-right="100px"> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjB0dHJmNW43OGV5dWF2ZmM4ZXNvYmU1OTVmdXgzbHU3aXowcXc3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VuZhSgPi5ItibCdSoZ/giphy.gif" style="background:rgba(0,0,0,0)" width="200px">
+
+<picture> <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjB0dHJmNW43OGV5dWF2ZmM4ZXNvYmU1OTVmdXgzbHU3aXowcXc3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VuZhSgPi5ItibCdSoZ/giphy.gif" style="background:rgba(0,0,0,0)" width="200px">
 </picture>
--->
 
-
-<!-- -->
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hud202ZXIxMzN2dzV5MjR6NmJ0c2JqMm53N3c3eGxlbmZuMmNzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N4h9A9o5TcWmjdQZVJ/giphy.gif" width="230">
 <br>
-
+<p>
 - A passionate Front-end developer
 - Ignited Financial Technology Developper for Metaquotes.
 - Full-Stack Mobile Apps Developer (Android, iOS)
 - Algorist and Database Engeneering Lover.
 - Machine Learning Study Passionate.
 - Opened for Hiring or FreeLance Service (on seat or remote), this is my [resume](https://read.cv/extremexdev)
+</p>
 
+<!-- -->
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hud202ZXIxMzN2dzV5MjR6NmJ0c2JqMm53N3c3eGxlbmZuMmNzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N4h9A9o5TcWmjdQZVJ/giphy.gif" width="230">
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
