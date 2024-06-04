@@ -9,8 +9,7 @@
 </p>
 
 <!-- -->
-<h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15+Charted&size=33&pause=1000&color=25D2DC&vCenter=true&random=false&width=600&height=70&lines=%3E+Passionate+Front-end+%3CDeveloper%2F%3E;%3E+Taste+For+Beautiful+UI%2FUX;%3E+Passionate+NodeJS+%7BBackend%7D+Developer;%3E+Skilled+Fintech++Developer+Metaquotes;%3E+Artificial+Intelligence+algorithms+as+Hobbies;%3E+Algorist+%26+Genius+Data+Scientist;%3E+Software+Innovator+and+curious+coder;%3E+Force+of+procedural+codes+From+Scratch;%3E+slogan%3A+With+less+we+can+do+More!;%3E+Everything+is+possible+thinking+algorithms;%3E+Logic+is+Everything%3A+010100010011111" alt="Typing SVG" /></a>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15+Charted&size=33&pause=1000&color=25D2DC&vCenter=true&random=false&width=600&height=70&lines=%3E+Passionate+Front-end+%3CDeveloper%2F%3E;%3E+Taste+For+Beautiful+UI%2FUX;%3E+Passionate+NodeJS+%7BBackend%7D+Developer;%3E+Skilled+Fintech++Developer+Metaquotes;%3E+Artificial+Intelligence+algorithms+as+Hobbies;%3E+Algorist+%26+Genius+Data+Scientist;%3E+Software+Innovator+and+curious+coder;%3E+Force+of+procedural+codes+From+Scratch;%3E+slogan%3A+With+less+we+can+do+More!;%3E+Everything+is+possible+thinking+algorithms;%3E+Logic+is+Everything%3A+010100010011111" alt="Typing SVG" /></a>
 </p>
 <br>
 <!-- -->
@@ -21,7 +20,8 @@
 <div>
 <picture> <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjB0dHJmNW43OGV5dWF2ZmM4ZXNvYmU1OTVmdXgzbHU3aXowcXc3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VuZhSgPi5ItibCdSoZ/giphy.gif" style="background:rgba(0,0,0,0)" width="200px">
 </picture>
-<span style="font-size:100px;"><i>Hi , I'm STANISLAS TRAORE</i> </span> 
+
+<h2> <i>Hi , I'm STANISLAS TRAORE</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> </h2> 
 <br>
 - A passionate Front-end Developer <br/>
 - Ignited Financial Technology Developper for Metaquotes. <br/>
