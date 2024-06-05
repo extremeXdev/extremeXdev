@@ -103,7 +103,7 @@ const extremeXdev = {
 
 
 <!-- Header  -->
-  <img align="center"  height=120px width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=extremeXdev"/>
+  <img align="center"  height=120px width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=extremeXdev&fontColor=black"/>
 <!-- -->
 
 <!-- -->
@@ -183,7 +183,6 @@ const extremeXdev = {
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title = "NestJS" width = "47" height = "47" style = "max-width: 100%;">
   </a>
   
-    
 </div>
 <!--  -->
 
