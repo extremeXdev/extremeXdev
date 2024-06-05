@@ -294,7 +294,7 @@ const extremeXdev = {
 
 
 <!-- -->
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW0wZWptYTAwMTh1dHlrbzNmcHNidDFnNnMyenkxeHQ5Y2ZwOWRjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwSG1QKOwDjQk/giphy.gif" width ="35"><b>  Remember, Good Bye!</b>
+## <b> 😎 Remember, Good Bye!</b>
 <!-- -->
 
 
