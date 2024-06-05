@@ -159,6 +159,10 @@ const extremeXdev = {
     <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title = "JSon" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title = "PHP" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title = "Less" width = "70" height = "70" style = "max-width: 100%;">
   </a>
@@ -168,7 +172,7 @@ const extremeXdev = {
   </a>
   
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title = "Tailwind" width = "70" height = "70" style = "max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title = "Tailwind CSS" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
@@ -235,7 +239,7 @@ const extremeXdev = {
   </a>
   
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title = "Postman" width = "70" height = "70" style = "max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title = "Powershell" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
 </div>
