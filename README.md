@@ -7,7 +7,7 @@
 
 <!-- Header  -->
 <div align=center>
-  <img  height=150px width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=extremeXdev"/>
+  <img  height=150px width=100% src="https://capsule-render.vercel.app/api?type=rect&height=130&color=gradient&text=extremeXdev"/>
 </div>
 <!-- -->
 
@@ -40,7 +40,7 @@
 - Algorist and Database Engeneering Lover. <br/>
 - Machine Learning Study Passionate. <br/>
 - Opened for Hiring or FreeLance Service (on seat or remote),
-  my <a href="https://read.cv/extremexdev">Resume<a/>
+  Full <a href="https://read.cv/extremexdev">Resume<a/>
 </div>
 <br>
 <!-- -->
@@ -84,7 +84,7 @@ const extremeXdev = {
  slogan: "With Less We Can Do More!",
 
  force: ['algorithms', 'procedural code'],
- futurePerspective: [ArtificialIntelligence, Blockchain],
+ futureProspect: [ArtificialIntelligence, Blockchain],
 
  bio: ` Past Passionate Arduino and FabLab Tech learner (like drones, 2016).
            Attended Technical Grammar School of Abidjan Cocody
