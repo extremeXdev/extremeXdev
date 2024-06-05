@@ -128,7 +128,7 @@ const extremeXdev = {
   </a>
 
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/go-original.svg" title = "GO" alt = "Go" width = "70" height = "70" style = "max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg" title = "GO" alt = "Go" width = "70" height = "70" style = "max-width: 100%;">
   </a>
    
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg">
@@ -159,8 +159,8 @@ const extremeXdev = {
     <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title = "JSon" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/less/less-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-original.svg" title = "Less" width = "70" height = "70" style = "max-width: 100%;">
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title = "Less" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
@@ -199,7 +199,7 @@ const extremeXdev = {
   </a>
   
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/sqlite-original.svg" title = "SQL Lite" width = "70" height = "70" style = "max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title = "SQL Lite" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
@@ -213,6 +213,11 @@ const extremeXdev = {
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title = "Blender" width = "70" height = "70" style = "max-width: 100%;">
   <a>
+
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title = "Inkscape" width = "70" height = "70" style = "max-width: 100%;">
+  <a>
+
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" title = "filezilla" width = "70" height = "70" style = "max-width: 100%;">
   </a>
