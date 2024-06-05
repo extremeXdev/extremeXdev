@@ -254,13 +254,6 @@ const extremeXdev = {
         </a>
     </p>
 </div>
-<div align="center">
-   <br> 
-    <p>
-        <img src="assets/images/loading-tired.gif">  
-    </p>
-    
-</div>
 
 <!-- -->
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW0wZWptYTAwMTh1dHlrbzNmcHNidDFnNnMyenkxeHQ5Y2ZwOWRjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwSG1QKOwDjQk/giphy.gif" width ="30"><b> Stats</b>
@@ -299,10 +292,19 @@ const extremeXdev = {
 -->
 <!-- -->
 
+
 <!--  -->
+<div align="center">
+   <br> 
+    <p>
+        <img src="assets/images/loading-tired.gif">  
+    </p> 
+</div>
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=34&duration=2000&pause=400&color=5FFF44&background=000000&center=true&vCenter=true&multiline=true&random=false&width=1300&height=300&lines=%40extremeXdev;%3E+echo+%22At+The+very+beginning+The+Creator+himself+is+a+ALGORIST.;We've+been+build+FROM+SCRATCH+as+automata;to+OPTIMISE++his+great+CODE%3A+The+%3CUniverse%2F%3E;Together+we+can!+%22;%3E+push-back++%22the+limits+of+that+awesome+%7BEnvironment%7D..............%22;+" alt="Typing SVG" /></a>
 </p>
+<!-- -->
 
 <!-- Copyright ©ExtremeXdev  -->
 <p align="center">
