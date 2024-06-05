@@ -122,10 +122,15 @@ const extremeXdev = {
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg">
     <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" title = "C++" alt = "C++" width = "70" height = "70" style = "max-width: 100%;">
   </a>
-   
+    
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C" width = "70" height = "70" style = "max-width: 100%;">
   </a>
+
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/go-original.svg" title = "GO" alt = "Go" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+   
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg">
     <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title = "HTML" alt = "HTML" width = "70" height = "70" style = "max-width: 100%;">
   </a>
@@ -134,21 +139,30 @@ const extremeXdev = {
     <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title = "CSS3" alt = "CSS3" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title = "TypeScript" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JavaScript" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "Git" width = "70" height = "70" style = "max-width: 100%;">
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "React" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VSCode" width = "70" height = "70" style = "max-width: 100%;">
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-original.svg" title = "Tailwind" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title = "Blender" width = "70" height = "70" style = "max-width: 100%;">
-  <a>
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title = "NodeJS" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title = "NestJS" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
     
 </div>
 <!--  -->
@@ -157,7 +171,7 @@ const extremeXdev = {
 <div align = "center">
 
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title = "Git" width = "70" height = "70" style = "max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title = "MySQL" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
@@ -172,16 +186,35 @@ const extremeXdev = {
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/sqlite-original.svg" title = "SQL Lite" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "Git" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VSCode" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title = "Blender" width = "70" height = "70" style = "max-width: 100%;">
+  <a>
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" title = "filezilla" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title = "Blender" width = "70" height = "70" style = "max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title = "Docker" width = "70" height = "70" style = "max-width: 100%;">
   <a>
     
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title = "Trello" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title = "Postman" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title = "Postman" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
 </div>
