@@ -34,7 +34,7 @@
 - Algorist and Database Engeneering Lover. <br/>
 - Machine Learning Study Passionate. <br/>
 - Opened for Hiring or FreeLance Service (on seat or remote),
-  Full <a href="https://read.cv/extremexdev">Resume<a/>
+  Full <a href="https://read.cv/extremexdev">Resume<a/> <a href="https://www.linkedin.com/in/extremexdev" target="_blank" rel="nofollow"><img align="right" alt="Stanislas's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
 </div>
 <br>
 <!-- -->
