@@ -249,7 +249,7 @@ const extremeXdev = {
     <h3 align="center"> Others </h3>
     <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=regex,redux,express,vite,none,none,npm,babel,webpack,bootstrap,svg,threejs,wordpress,bots,none,none,apple,windows,arduino,md,pycharm,atom,sublime,github&theme=dark&perline=10" />
+            <img src="https://skillicons.dev/icons?i=regex,redux,express,vite,none,none,npm,babel,webpack,bootstrap,svg,raspberrypi,wordpress,bots,none,none,apple,windows,arduino,md,pycharm,atom,sublime,github&theme=dark&perline=10" />
         </a>
     </p>
 </div>
