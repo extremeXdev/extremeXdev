@@ -116,69 +116,70 @@ const extremeXdev = {
 <div align = "center">
 
   <h2> Languages & Tools </h2>
-    <span><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title = "Python" alt = "Python" width = "47" height = "47" style = "max-width: 100%;"> 
-    </span>
+    <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title = "Python" alt = "Python" width = "47" height = "47" style = "max-width: 100%;">
+    </a>
     <span><img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" title = "C++" alt = "C++" width = "47" height = "47" style = "max-width: 100%;"></span>
-    <!--    
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+        
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
 
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg" title = "GO" alt = "Go" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title = "PHP" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
    
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title = "HTML" alt = "HTML" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
 
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title = "CSS3" alt = "CSS3" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title = "TypeScript" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JavaScript" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "React" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title = "JQuery" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title = "JSon" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title = "Less" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title = "Sass" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title = "Tailwind CSS" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title = "NodeJS" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title = "NestJS" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
            
 </div>
 <!--  -->
