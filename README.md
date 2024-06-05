@@ -94,7 +94,7 @@ const extremeXdev = {
         
          It seem like Computer science is something destiny for.
         $Focusman, <i>unstoppable motivation</i>.
-        `
+        `,
  lastWord: `In this fast growing world,
                 The Best Skill is <Versatility/>...Keep In Touch! 😉`
 }
