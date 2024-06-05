@@ -126,11 +126,10 @@ const extremeXdev = {
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C" width = "70" height = "70" style = "max-width: 100%;">
   </a>
-        
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg">
     <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title = "HTML" alt = "HTML" width = "70" height = "70" style = "max-width: 100%;">
   </a>
-            
+
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg">
     <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title = "CSS3" alt = "CSS3" width = "70" height = "70" style = "max-width: 100%;">
   </a>
