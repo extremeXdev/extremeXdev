@@ -151,6 +151,14 @@ const extremeXdev = {
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title = "React" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title = "JQuery" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title = "JQuery" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-original.svg" title = "Tailwind" width = "70" height = "70" style = "max-width: 100%;">
   </a>
