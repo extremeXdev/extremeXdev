@@ -184,65 +184,65 @@ const extremeXdev = {
 </div>
 <!--  -->
 
-<!--  --> <!--
+<!--  -->
 <div align = "center">
 
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title = "MySQL" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title = "MongoDB" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title = "Mongoose" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title = "SQL Lite" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "Git" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title = "Docker" width = "47" height = "47" style = "max-width: 100%;">
-  <a>
+  </span>
     
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VSCode" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title = "Blender" width = "47" height = "47" style = "max-width: 100%;">
-  <a>
+  </span>
 
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title = "Inkscape" width = "47" height = "47" style = "max-width: 100%;">
-  <a>
+  </span>
 
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" title = "filezilla" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title = "Trello" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title = "Postman" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title = "Powershell" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
+  </span>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg">
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title = "Qt" width = "47" height = "47" style = "max-width: 100%;">
-  </a>
-   -->
+  </span>
+
 </div> 
 
 <br><br>
