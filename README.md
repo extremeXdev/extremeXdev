@@ -34,7 +34,7 @@
 - Algorist and Database Engeneering Lover. <br/>
 - Machine Learning Study Passionate. <br/>
 - Opened for Hiring or FreeLance Service (on seat or remote),
-  Full <a href="https://read.cv/extremexdev">Resume<a/> <a href="https://www.linkedin.com/in/extremexdev" target="_blank" rel="nofollow"><img align="right" alt="Stanislas's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
+  Full <a href="https://read.cv/extremexdev">Resume<a/> <a href="https://www.linkedin.com/in/stanislas-l-traore-38b584310" target="_blank" rel="nofollow"><img align="right" alt="Stanislas's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
 </div>
 <br>
 <!-- -->
@@ -104,7 +104,7 @@ const extremeXdev = {
 
 
 <!-- Header  -->
-  <img align="center"  height=120px width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=extremeXdev&fontColor=grey"/>
+  <img align="center"  height=120px width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=extremeXdev&fontColor=808080"/>
 <!-- -->
 
 <!-- -->
@@ -270,11 +270,12 @@ const extremeXdev = {
 
 
 <!-- vercel rect  -->
+<!--
 <div align=center>
   <img  height=150px width=100% src="https://capsule-render.vercel.app/api?type=rect&height=130&color=gradient&text=extremeXdev"/>
 </div>
+-->
 <!-- -->
-
 
 <!--  -->
 <p align="center">
