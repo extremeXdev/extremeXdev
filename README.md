@@ -183,11 +183,11 @@ const extremeXdev = {
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title = "NestJS" width = "47" height = "47" style = "max-width: 100%;">
   </a>
-            -->
+           
 </div>
 <!--  -->
 
-<!--  -->
+<!--  --> <!--
 <div align = "center">
 
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
@@ -245,8 +245,8 @@ const extremeXdev = {
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title = "Qt" width = "47" height = "47" style = "max-width: 100%;">
   </a>
-  
-</div>
+   -->
+</div> 
 
 <br><br>
 <!--
