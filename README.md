@@ -103,7 +103,7 @@ const extremeXdev = {
 
 
 <!-- Header  -->
-  <img align="center"  height=120px width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=extremeXdev&fontColor=black"/>
+  <img align="center"  height=120px width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&text=extremeXdev&fontColor=grey"/>
 <!-- -->
 
 <!-- -->
