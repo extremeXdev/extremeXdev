@@ -114,7 +114,7 @@ const extremeXdev = {
 
 <!-- -->
 <div align = "center">
-
+   <br>
   <h3> Languages & Tools </h3>
     <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
         <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title = "Python" alt = "Python" width = "47" height = "47" style = "max-width: 100%;">
@@ -245,8 +245,9 @@ const extremeXdev = {
 
 </div> 
 
-<div>
-    <h3 align="center"> Others </h3>
+<div align="center">
+    <br>
+    <h3> Others </h3>
     <p align="center">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=none,none,none,none,apple,windows,none,none,none,none,regex,redux,express,vite,none,none,npm,babel,webpack,bootstrap,svg,github,wordpress,bots,none,none,md,pycharm,atom,sublime,none,none,none,none,raspberrypi,arduino&theme=dark&perline=10" />
