@@ -245,6 +245,14 @@ const extremeXdev = {
 
 </div> 
 
+<div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,kubernetes,docker,c,vim&theme=dark&perline=10" />
+  </a>
+</p>
+</div>
+
 <br><br>
 <!--
 ----
