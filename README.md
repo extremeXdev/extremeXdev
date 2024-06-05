@@ -259,7 +259,7 @@ const extremeXdev = {
     <p>
         <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hud202ZXIxMzN2dzV5MjR6NmJ0c2JqMm53N3c3eGxlbmZuMmNzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N4h9A9o5TcWmjdQZVJ/giphy.gif" width="230">  
     </p>
-    <video crossorigin="anonymous" draggable="true" class="giphy-video" width="776" height="516" autoplay="" playsinline="" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa290czZ6MWprbmJmcTM2YXdpOWpwOXZzeTljOTQ0cWQ5MWNyM2tudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/u2wg2uXJbHzkXkPphr/giphy360p.mp4" data-giphy-id="u2wg2uXJbHzkXkPphr"></video>
+    
 </div>
 
 <!-- -->
