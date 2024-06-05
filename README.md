@@ -95,7 +95,8 @@ const extremeXdev = {
          It seem like Computer science is something destiny for.
         $Focusman, <i>unstoppable motivation</i>.
         `
- lastWord: "In this fast growing world, The Best Skill is <Versatility/>...Keep In touch! 😉";
+ lastWord: `In this fast growing world,
+                The Best Skill is <Versatility/>...Keep In Touch! 😉`
 }
 ```
 <!-- -->
@@ -114,6 +115,7 @@ const extremeXdev = {
 
 <!-- -->
 <div align = "center">
+
   <h2> Languages & Tools </h2>
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg">
     <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title = "Python" alt = "Python" width = "47" height = "47" style = "max-width: 100%;"> 
