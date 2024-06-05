@@ -295,7 +295,7 @@ const extremeXdev = {
 
 
 <!-- -->
-## <b> 😎 Remember, <i>See You Soon!</i></b>
+## <b><i> Remember...See You Soon! </i></b>
 <!-- -->
 
 
