@@ -167,8 +167,8 @@ const extremeXdev = {
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title = "Sass" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-original.svg" title = "Tailwind" width = "70" height = "70" style = "max-width: 100%;">
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title = "Tailwind" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
