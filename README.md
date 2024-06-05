@@ -246,7 +246,7 @@ const extremeXdev = {
 </div> 
 
 <div>
-    <h3> Others </h3>
+    <h3 align="center"> Others </h3>
     <p align="center">
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=regex,redux,express,vite,npm,babel,bootstrap,android,apple,windows,arduino,md,pycharm,atom,sublim&theme=dark&perline=10" />
