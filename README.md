@@ -80,12 +80,13 @@ const extremeXdev = {
  force: ['algorithms', 'procedural code'],
  futureProspect: [ArtificialIntelligence, Blockchain],
 
- bio: ` Past Passionate Arduino and FabLab Tech learner (like drones, 2016-2017).
+ bio: ` Past Passionate Arduino and FabLab Tech learner
+            (like drones construction , 2016-2017).
            Attended Technical Grammar School of Abidjan Cocody
              learning Electronic and Technology
                (Ivory Coast, West Africa),
           begin developing Computer Apps in C Lang and 3D with OpenGL,
-            pusuing designing such great 3D modelling tool like Blender,
+            pursued designing with such great 3D modelling tool like Blender,
         decide pursuing a Data scientist branch,
           learned COMPUTER SCIENCE at High-school;
            Crazy Lover of Futuristic Tech and everything
@@ -94,6 +95,7 @@ const extremeXdev = {
          It seem like Computer science is something destiny for.
         $Focusman, <i>unstoppable motivation</i>.
         `
+ lastWord: "In this fast growing world, The Best Skill is <Versatility/>...Keep In touch! 😉";
 }
 ```
 <!-- -->
@@ -107,14 +109,12 @@ const extremeXdev = {
 
 <!-- -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 <!-- -->
 
 
 <!-- -->
 <div align = "center">
-  <h1>    </h1>
-  <h2> Language Tools </h2>
+  <h2> Languages & Tools </h2>
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg">
     <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title = "Python" alt = "Python" width = "47" height = "47" style = "max-width: 100%;"> 
     </a>
@@ -247,7 +247,8 @@ const extremeXdev = {
   </a>
   
 </div>
------
+
+----
 
 <!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
