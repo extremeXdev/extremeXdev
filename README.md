@@ -153,6 +153,38 @@ const extremeXdev = {
 </div>
 <!--  -->
 
+<!--  -->
+<div align = "center">
+
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title = "Git" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title = "MongoDB" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title = "Mongoose" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/sqlite-original.svg" title = "SQL Lite" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" title = "filezilla" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title = "Blender" width = "70" height = "70" style = "max-width: 100%;">
+  <a>
+    
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title = "Trello" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+</div>
 -----
 
 <!-- 
