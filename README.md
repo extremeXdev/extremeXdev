@@ -214,6 +214,10 @@ const extremeXdev = {
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VSCode" width = "70" height = "70" style = "max-width: 80%;">
   </a>
   
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title = "Qt" width = "70" height = "70" style = "max-width: 80%;">
+  </a>
+  
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title = "Blender" width = "70" height = "70" style = "max-width: 80%;">
   <a>
