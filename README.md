@@ -5,12 +5,6 @@
 <body>
 
 
-<!-- Header  -->
-<div align=center>
-  <img  height=150px width=100% src="https://capsule-render.vercel.app/api?type=rect&height=130&color=gradient&text=extremeXdev"/>
-</div>
-<!-- -->
-
 <!-- -->
 <div>
 <img src="assets/images/bg5.jpg" width="100%" alt="Back Image extremexdev github">
@@ -130,6 +124,14 @@ const extremeXdev = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extremeXdev&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
+
+
+<!-- vercel rect  -->
+<div align=center>
+  <img  height=150px width=100% src="https://capsule-render.vercel.app/api?type=rect&height=130&color=gradient&text=extremeXdev"/>
+</div>
+<!-- -->
+
 
 <!--  -->
 <p align="center">
