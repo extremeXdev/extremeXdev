@@ -52,7 +52,7 @@
 import {extremeXdev_utils, sayMoreAndBref} from Reactify;
 
 const extremeXdev = {
-  pronouns: "He" | "His",
+  pronouns: "He" | "Him",
   codeFront: [Typescript, Javascript, HTML5, CSS3, Sass, less],
   webFramework: [reactJS, ReactNative],
   apps: [Android, IOS],
@@ -65,7 +65,7 @@ const extremeXdev = {
                MD:   "Markdown"
               },
   tools: [Docker, Git, Github, Trello],
-  IDE: [VisualStudio, PyCharm, QtCreator, MetaEditor5],
+  IDE: [VisualStudioCode, PyCharm, QtCreator, MetaEditor5],
   architecture: ["microservices", "event-driven", "design system pattern"],
   
   techCommunities: {
@@ -80,12 +80,14 @@ const extremeXdev = {
  force: ['algorithms', 'procedural code'],
  futureProspect: [ArtificialIntelligence, Blockchain],
 
- bio: ` Past Passionate Arduino and FabLab Tech learner (like drones, 2016).
+ bio: ` Past Passionate Arduino and FabLab Tech learner (like drones, 2016-2017).
            Attended Technical Grammar School of Abidjan Cocody
+             learning Electronic and Technology
                (Ivory Coast, West Africa),
-          begin developing Computer Apps in C Lang,
+          begin developing Computer Apps in C Lang and 3D with OpenGL,
+            pusuing designing such great 3D modelling tool like Blender,
         decide pursuing a Data scientist branch,
-          learned Computer Science at High-school;
+          learned COMPUTER SCIENCE at High-school;
            Crazy Lover of Futuristic Tech and everything
               related to Digital Science & HIgh-Tech.
         
