@@ -303,7 +303,7 @@ const extremeXdev = {
 <div align="center">
    <br> 
     <p>
-        <img width="100%" height="360px" src="assets/images/loading-tired.gif">  
+        <img width="100%" max-width="1300" height="360px" src="assets/images/loading-tired.gif">  
     </p> 
 </div>
 
