@@ -293,6 +293,11 @@ const extremeXdev = {
 <!-- -->
 
 
+<!-- -->
+##  <b> Remember, Good Bye! </b>
+<!-- -->
+
+
 <!--  -->
 <div align="center">
    <br> 
