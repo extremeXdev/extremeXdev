@@ -308,7 +308,7 @@ const extremeXdev = {
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=19&duration=2000&pause=400&color=5FFF44&background=000000&center=true&vCenter=true&multiline=true&random=false&width=540&height=180&lines=%40extremeXdev;%3E+echo+%22At+The+very+beginning+The+Creator+himself+is+a+ALGORIST.;We've+been+build+FROM+SCRATCH+as+automata;to+OPTIMISE++his+great+CODE%3A+The+%3CUniverse%2F%3E;Together+we+can!+%22;%3E+push-back++%22the+limits+of+that+awesome+%7BEnvironment%7D..............%22;+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=19&duration=2000&pause=400&color=5FFF44&background=000000&center=true&vCenter=true&multiline=true&random=false&width=540&height=170&lines=%40extremeXdev;%3E+echo+%22At+The+very+beginning+The+Creator+himself+is+a+ALGORIST.;We've+been+build+FROM+SCRATCH+as+automata;to+OPTIMISE++his+great+CODE%3A+The+%3CUniverse%2F%3E;Together+we+can!+%22;%3E+push-back++%22the+limits+of+that+awesome+%7BEnvironment%7D..............%22;+" alt="Typing SVG" /></a>
 </p>
 <!-- -->
 
