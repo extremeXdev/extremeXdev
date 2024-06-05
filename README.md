@@ -319,7 +319,7 @@ const extremeXdev = {
 
 <!-- Footer  -->
 <div align=center>
-  <img  height=150px width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=145&section=footer"/>
+  <img  height=170px width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=165&section=footer"/>
 </div>
 
 
