@@ -156,7 +156,15 @@ const extremeXdev = {
   </a>
   
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title = "JQuery" width = "70" height = "70" style = "max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title = "JSon" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/less/less-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-original.svg" title = "Less" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+  
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title = "Sass" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-original.svg">
