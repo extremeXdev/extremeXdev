@@ -273,10 +273,12 @@ const extremeXdev = {
   <a href="https://www.buymeacoffee.com/extremexdev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Buy Coffee" /></a>
 </p>
 
+<!--
  <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=extremeXdev&repo=machine-L">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=extremeXdev&repo=weather-app">
 </p>
+-->
 
 <br><br>
 
