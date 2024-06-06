@@ -286,7 +286,6 @@ const extremeXdev = {
 </p>
 -->
 
-<br><br>
 
 <!--
 ----
