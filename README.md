@@ -69,9 +69,13 @@ const extremeXdev = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        organizer: 'AI Accelerator Institute',
+                        speakers: [ {name: 'Yann LeCun',
+                                       desc: 'Chief AI Scientist at Meta'},
+                                    {name: 'Victor Riparbelli',
+                                        desc: 'Chief Executive Officer at Synthesia'},
+                                    {name: 'Neda Cvijetic',
+                                        desc: 'Senior Vice President, AI at Stellantis'} ]
                     },
 
  bestQuote: "It's Never Too Late To Perform!",
