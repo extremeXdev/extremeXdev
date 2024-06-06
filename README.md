@@ -241,6 +241,10 @@ const extremeXdev = {
   </span>
   
   <span>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title = "Android" width = "47" height = "47" style = "max-width: 100%;">
+  </span>
+  
+  <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title = "Qt" width = "47" height = "47" style = "max-width: 100%;">
   </span>
 
