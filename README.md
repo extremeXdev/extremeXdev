@@ -273,6 +273,13 @@ const extremeXdev = {
   <a href="https://www.buymeacoffee.com/extremexdev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Buy Coffee" /></a>
 </p>
 
+
+<!-- Featured PRs -->
+<!--
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW0wZWptYTAwMTh1dHlrbzNmcHNidDFnNnMyenkxeHQ5Y2ZwOWRjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwSG1QKOwDjQk/giphy.gif" width ="40"><b> Featured</b>
+-->
+<!-- -->
+
 <!--
  <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=extremeXdev&repo=machine-L">
