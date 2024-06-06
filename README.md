@@ -117,10 +117,13 @@ const extremeXdev = {
 <div align = "center">
    <br>
   <h3> Languages & Tools </h3>
-    <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <span> <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
         <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title = "Python" alt = "Python" width = "47" height = "47" style = "max-width: 100%;">
     </a>
-    <span><img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" title = "C++" alt = "C++" width = "47" height = "47" style = "max-width: 100%;"></span>
+    </span>
+    <span> <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" title = "C++" alt = "C++" width = "47" height = "47" style = "max-width: 100%;"> </a>
+    </span>
         
   <span>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C" width = "47" height = "47" style = "max-width: 100%;">
