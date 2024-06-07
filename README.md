@@ -270,14 +270,14 @@ const extremeXdev = {
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW0wZWptYTAwMTh1dHlrbzNmcHNidDFnNnMyenkxeHQ5Y2ZwOWRjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwSG1QKOwDjQk/giphy.gif" width ="40"><b> Stats</b>
 <!-- -->
 
-<p align="center">
+<div align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=extremeXdev&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=extremeXdev&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=extremeXdev&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
   <p><a href="https://www.buymeacoffee.com/extremexdev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Buy Coffee" /></a> </p>
-</p>
+</div>
 <br>
 
 <!-- Featured PRs -->
