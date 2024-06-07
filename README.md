@@ -62,7 +62,7 @@ const extremeXdev = {
   DB: [MySql, MongoDB, SQLite],
   othersLang: {
                QML:  "Qt Modeling Language",
-               MQL5: "MetaQuote Language5",
+               MQL5: "MetaQuote Language 5",
                MD:   "Markdown"
               },
   tools: [Docker, Git, Github, Trello],
@@ -277,7 +277,7 @@ const extremeXdev = {
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=extremeXdev&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=extremeXdev&theme=darcula&hide_border=true&background=FFFFFF00">
   <br><br>
-  <p><a href="https://www.buymeacoffee.com/extremexdev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Buy Coffee" /></a> </p>
+  <p><a href="https://www.buymeacoffee.com/extremexdev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Buy Coffee" /></a></p>
 </div>
 
 
