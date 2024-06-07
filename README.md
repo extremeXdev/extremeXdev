@@ -278,7 +278,7 @@ const extremeXdev = {
   <br>
   <p><a href="https://www.buymeacoffee.com/extremexdev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Buy Coffee" /></a> </p>
 </div>
-<br>
+
 
 <!-- Featured PRs -->
 <!--
