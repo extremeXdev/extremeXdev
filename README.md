@@ -46,7 +46,7 @@
 </div>
 
 <!-- https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif -->
-### <img src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/Profile2/cofi.png" width="40"> A little more about me...  
+### <img src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/Profile2/cofi.png" width="30"> A little more about me...  
 
 ```javascript
 
