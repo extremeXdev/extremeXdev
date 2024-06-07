@@ -46,7 +46,7 @@
 </div>
 
 <!-- https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif -->
-### <img src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/Profile2/cofi.png" width="50"> A little more about me...  
+### <img src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/Profile2/cofi.png" width="40"> A little more about me...  
 
 ```javascript
 
@@ -74,9 +74,11 @@ const extremeXdev = {
                         speakers: [ {name: 'Yann LeCun',
                                        desc: 'Chief AI Scientist at Meta'},
                                     {name: 'Victor Riparbelli',
-                                        desc: 'Chief Executive Officer at Synthesia'},
+                                       desc: `Chief Executive 
+                                                 Officer at Synthesia`},
                                     {name: 'Neda Cvijetic',
-                                        desc: 'Senior Vice President, AI at Stellantis'} ],
+                                       desc: `Senior Vice President,
+                                                 AI at Stellantis`} ],
                         tutor: "Travis"
                     },
 
@@ -96,7 +98,7 @@ const extremeXdev = {
         decide pursuing a Data scientist branch,
           learned COMPUTER SCIENCE at High-school;
            Crazy Lover of Futuristic Tech and everything
-              related to Digital Science & HIgh-Tech.
+              related to Digital Science & High-Tech.
         
          It seem like Computer science is something destiny for.
         $Focusman, <i>unstoppable motivation</i>.
@@ -335,9 +337,9 @@ const extremeXdev = {
     </p> 
 </div>
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=19&duration=2000&pause=400&color=5FFF44&background=000000&center=true&vCenter=true&multiline=true&random=false&width=540&height=170&lines=%40extremeXdev;%3E+echo+%22At+The+very+beginning+The+Creator+himself+is+a+ALGORIST.;We've+been+build+FROM+SCRATCH+as+automata;to+OPTIMISE++his+great+CODE%3A+The+%3CUniverse%2F%3E;Together+we+can!+%22;%3E+push-back++%22the+limits+of+that+awesome+%7BEnvironment%7D..............%22;+" alt="Typing SVG" /></a>
-</p>
+</div>
 <!-- -->
 
 <!-- Copyright ©ExtremeXdev  -->
