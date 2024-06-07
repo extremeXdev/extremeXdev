@@ -329,7 +329,7 @@ const extremeXdev = {
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> <b><i>See You Soon!</i></b> 😉
 <!-- -->
 
-<div background-color="black" width=100%, height="800">
+<div background-color="black" width=100% height="800">
 <!--  -->
 <div align="center">
    <br> 
