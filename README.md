@@ -34,7 +34,7 @@
 - Algorist and Database Engeneering Lover. <br/>
 - Machine Learning Study Passionate. <br/>
 - Opened for Hiring or FreeLance Service (on seat or remote),
-  Full <a href="https://read.cv/extremexdev">Resume<a/> <a href="mailto:traorestan77@gmail.com" target="_blank"><img align="right" alt="Gmail" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> <a href="https://www.linkedin.com/in/traore-l-stanislas-extremeXdev/" target="_blank" rel="nofollow"><img align="right" alt="Stanislas's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a> 
+  <a href="https://read.cv/extremexdev">Full Resume<a/> <a href="mailto:traorestan77@gmail.com" target="_blank"><img align="right" alt="Gmail" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> <a href="https://www.linkedin.com/in/traore-l-stanislas-extremeXdev/" target="_blank" rel="nofollow"><img align="right" alt="Stanislas's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a> 
 </div>
 <br>
 <!-- -->
@@ -76,7 +76,8 @@ const extremeXdev = {
                                     {name: 'Victor Riparbelli',
                                         desc: 'Chief Executive Officer at Synthesia'},
                                     {name: 'Neda Cvijetic',
-                                        desc: 'Senior Vice President, AI at Stellantis'} ]
+                                        desc: 'Senior Vice President, AI at Stellantis'} ],
+                        tutor: "Travis"
                     },
 
  bestQuote: "It's Never Too Late To Perform!",
@@ -323,9 +324,8 @@ const extremeXdev = {
 
 
 <!-- -->
-## <b> Remember... <i>See You Soon!</i></b> 😉
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <b>Remember... <i>See You Soon!</i></b> 😉
 <!-- -->
-
 
 <!--  -->
 <div align="center">
