@@ -34,7 +34,7 @@
 - Algorist and Database Engeneering Lover. <br/>
 - Machine Learning Study Passionate. <br/>
 - Opened for Hiring or FreeLance Service (on seat or remote),
-  <a href="https://read.cv/extremexdev">Full Resume<a/> <a href="mailto:traorestan77@gmail.com" target="_blank"><img align="right" alt="Gmail" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a><a href="https://www.linkedin.com/in/traore-l-stanislas-extremeXdev/" target="_blank" rel="nofollow"><img align="right" alt="Stanislas's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a> 
+  <a href="https://read.cv/extremexdev">Full Resume<a/><a href="mailto:traorestan77@gmail.com" target="_blank"><img align="right" alt="Gmail" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> <a href="https://www.linkedin.com/in/traore-l-stanislas-extremeXdev/" target="_blank" rel="nofollow"><img align="right" alt="Stanislas's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a> 
 </div>
 <br>
 <!-- -->
