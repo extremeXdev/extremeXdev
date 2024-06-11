@@ -262,9 +262,9 @@ const extremeXdev = {
     <br>
     <h3> Others </h3>
     <p align="center">
-        <a href="https://skillicons.dev">
+        <picture>
             <img src="https://skillicons.dev/icons?i=none,none,none,none,apple,windows,none,none,none,none,regex,redux,express,vite,none,none,npm,babel,webpack,bootstrap,svg,github,wordpress,bots,none,none,md,pycharm,atom,sublime,none,none,none,none,raspberrypi,arduino&theme=dark&perline=10" />
-        </a>
+        </picture>
     </p>
 </div>
 
