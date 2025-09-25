@@ -23,8 +23,14 @@
 <!-- -->
 <div>
 <br>
+<!-- 
 <picture> <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2o4OTI4OXZlczF1MG81NzlpcXd0amg5MzB0ZW1tcGhvOTBsdXEyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.gif" style="background:rgba(0,0,0,0)" width="200px">
 </picture>
+-->
+
+<div>
+        <img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hud202ZXIxMzN2dzV5MjR6NmJ0c2JqMm53N3c3eGxlbmZuMmNzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N4h9A9o5TcWmjdQZVJ/giphy.gif" width="230">
+</div>
 
 <b> <i>Hi , I'm STANISLAS TRAORE</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"/> </b> 
 <br>
@@ -40,11 +46,11 @@
 <!-- -->
 
 
-<!-- -->
+<!-- 
 <div>
         <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hud202ZXIxMzN2dzV5MjR6NmJ0c2JqMm53N3c3eGxlbmZuMmNzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N4h9A9o5TcWmjdQZVJ/giphy.gif" width="230">
 </div>
-
+-->
 <!-- https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif -->
 ### <img src="https://github.com/Ayon-SSP/Ayon-SSP/blob/main/Profile2/cofi.png" width="34"> A little more about me...  
 
