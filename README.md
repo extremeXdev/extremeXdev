@@ -29,12 +29,14 @@
 
 <b> <i>Hi , I'm STANISLAS TRAORE</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"/> </b> 
 <br>
+<div>
 - A passionate Front-end Developer <br/>
 - Ignited Financial Technology Developper for Metaquotes. <br/>
 - Full-Stack Mobile Apps Developer (Android, iOS) <br/>
 - Algorist and Database Engeneering Lover. <br/>
 - Machine Learning Study Passionate. <br/>
 - Opened for Hiring or FreeLance Service (on seat or remote),
+</div>
   <a href="https://read.cv/extremexdev">Full Resume<a/><a href="mailto:traorestan77@gmail.com" target="_blank"><img align="right" alt="Gmail" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> <a href="https://www.linkedin.com/in/traore-l-stanislas-extremeXdev/" target="_blank" rel="nofollow"><img align="right" alt="Stanislas's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a> 
 </div>
 <br>
