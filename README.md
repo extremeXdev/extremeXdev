@@ -9,21 +9,21 @@
 <div>
 <img src="assets/images/bg5.jpg" width="100%" alt="Back Image extremexdev github">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15+Charted&size=33&pause=1000&color=25D2DC&vCenter=true&random=false&width=600&height=70&lines=%3E+Passionate+Front-end+%3CDeveloper%2F%3E;%3E+Taste+For+Beautiful+UI%2FUX;%3E+Passionate+NodeJS+%7BBackend%7D+Developer;%3E+Skilled+Fintech++Developer+Metaquotes;%3E+Artificial+Intelligence+algorithms+as+Hobbies;%3E+Algorist+%26+Genius+Data+Scientist;%3E+Software+Innovator+and+curious+coder;%3E+Force+of+procedural+codes+From+Scratch;%3E+slogan%3A+With+less+we+can+do+More!;%3E+Everything+is+possible+thinking+algorithms;%3E+Logic+is+Everything%3A+010100010011111" alt="Typing SVG" /></a> <img align="right" alt="React" width="41px" src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif" /> <img align="right" alt="Docker" width="30px" src="https://www.programmersought.com/images/913/79b9b7ffd3353617e3dd94ce54542cf9.gif"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15+Charted&size=33&pause=1000&color=25D2DC&vCenter=true&random=false&width=600&height=70&lines=%3E+Passionate+Front-end+%3CDeveloper%2F%3E;%3E+Taste+For+Beautiful+UI%2FUX;%3E+Passionate+NodeJS+%7BBackend%7D+Developer;%3E+Skilled+Fintech++Developer+Metaquotes;%3E+Artificial+Intelligence+algorithms+as+Hobbies;%3E+Algorist+%26+Genius+Data+Scientist;%3E+Software+Innovator+and+curious+coder;%3E+Force+of+procedural+codes+From+Scratch;%3E+slogan%3A+With+less+we+can+do+More!;%3E+Everything+is+possible+thinking+algorithms;%3E+Logic+is+Everything%3A+010100010011111" alt="Typing SVG" /></a> <img align="right" alt="React" width="41px" src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif" /> <img align="right" alt="Docker" width="30px" src="assets/icons/docker.gif"/>
 </div>
 <!-- -->
 
 <!-- -->
 <h2>
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFic3pndWU0N294OGRyNTBiYWU0cTY3ZHhsZ2R4cHZ3ZHlhbzBodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZeSWODCnHB9fazFsmm/giphy.gif" width ="40">
+    <img src="assets/icons/zen-coder.gif" width ="40">
 <picture><img align="right" src= "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=70></picture> <i>About me</i>
 </h2>
 <!-- -->
 
 <!-- -->
 <div>
-<br>
-<picture> <img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2o4OTI4OXZlczF1MG81NzlpcXd0amg5MzB0ZW1tcGhvOTBsdXEyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.gif" style="background:rgba(0,0,0,0)" width="175px">
+<br><br>
+<picture> <img align="left" src="assets/icons/rocket.gif" style="background:rgba(0,0,0,0)" width="175px">
 </picture>
 
 <div>
