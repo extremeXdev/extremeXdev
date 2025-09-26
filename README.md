@@ -32,11 +32,11 @@
 - A passionate Front-end Developer <br/>
 - Ignited Financial Technology Developper for Metaquotes. <br/>
 - Full-Stack Mobile Apps Developer (Android, iOS) <br/>
-- Algorist and Database Engeneering Lover. <br/>
-- Machine Learning Study Passionate. <br/>
+- Algorist and Data Scientist. <br/>
+- AI & Machine Learning Study Passionate. <br/>
 - Opened for Hiring or FreeLance Service (on seat or remote),
 
-  <a href="https://read.cv/extremexdev">Full Resume<a/><a href="mailto:traorestan77@gmail.com" target="_blank"><img align="right" alt="Gmail" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> <a href="https://www.linkedin.com/in/traore-l-stanislas-extremeXdev/" target="_blank" rel="nofollow"><img align="right" alt="Stanislas's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a> 
+  <a href="https://read.cv/extremexdev">Full Resume</a><a href="mailto:traorestan77@gmail.com" target="_blank"><img align="right" alt="Gmail" width="22px" src="assets/icons/Gmail.svg"></a> <a href="https://www.linkedin.com/in/traore-l-stanislas-extremeXdev/" target="_blank" rel="nofollow"><img align="right" alt="Stanislas's Linkdein" width="22px" src="assets/icons/linkedin.png" /></a> 
   </div>
 </div>
 <br>
@@ -45,7 +45,7 @@
 <!-- -->
 <div>
 <br>
-<picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hud202ZXIxMzN2dzV5MjR6NmJ0c2JqMm53N3c3eGxlbmZuMmNzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N4h9A9o5TcWmjdQZVJ/giphy.gif" width="200">
+<picture> <img align="right" src="assets/icons/coffee-into-code.gif" width="200">
 </picture>
 
 
@@ -53,7 +53,7 @@
 <br>
 - Your On Demand CTO<br/>
 - Your On Demand Product Manager/Owner  <br/>
-- Copywriting & Dynamic Trendy Writing for your Pages <br/>
+- Your On Demand Algorist / Director of algorithmic Trading<br/>
 - Dedicated Cybersecurity Teams <br/>
 - Customized software in Finance, AI, Blockchain, and any domain <br/>
 - On-Demand Remote Team (Dedicated genius Teams for your ambitious software)
