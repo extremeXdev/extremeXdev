@@ -23,7 +23,7 @@
 <!-- -->
 <div>
 <br><br>
-<picture> <img align="left" src="assets/icons/rocket.gif" style="background:rgba(0,0,0,0)" width="175px">
+<picture> <img align="left" src="assets/icons/rocket.gif" style="background:rgba(0,0,0,0)" width="190px">
 </picture>
 
 <div>
