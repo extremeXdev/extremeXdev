@@ -34,7 +34,7 @@
 - Full-Stack Mobile Apps Developer (Android, iOS) <br/>
 - Algorist and Data Scientist. <br/>
 - AI & Machine Learning Study Passionate. <br/>
-- Opened for Hiring or FreeLance Service (on seat or remote),
+- Opened for Hiring or FreeLance Service (on site or remote),
 
   <a href="https://read.cv/extremexdev">Full Resume</a><a href="mailto:traorestan77@gmail.com" target="_blank"><img align="right" alt="Gmail" width="22px" src="assets/icons/Gmail.svg"></a> <a href="https://www.linkedin.com/in/traore-l-stanislas-extremeXdev/" target="_blank" rel="nofollow"><img align="right" alt="Stanislas's Linkdein" width="22px" src="assets/icons/linkedin.png" /></a> 
   </div>
@@ -109,10 +109,10 @@ const extremeXdev = {
            Attended Technical Grammar School of Abidjan Cocody
              learning Electronic and Technology
                (Ivory Coast, West Africa),
-          begin developing Computer Apps in C Lang and 3D with OpenGL,
+          began developing Computer Apps in C Lang and 3D with OpenGL,
             pursued designing with such great 3D modelling tool like Blender,
         decide pursuing a Data scientist branch,
-          learned COMPUTER SCIENCE at High-school;
+          learned COMPUTER SCIENCE at University;
            Crazy Lover of Futuristic Tech and everything
               related to Digital Science & High-Tech.
         
@@ -339,6 +339,21 @@ const extremeXdev = {
 </div>
 -->
 <!-- -->
+
+
+
+<!-- -->
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW0wZWptYTAwMTh1dHlrbzNmcHNidDFnNnMyenkxeHQ5Y2ZwOWRjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwSG1QKOwDjQk/giphy.gif" width ="40"><b> Authors</b>
+<!-- -->
+
+<div align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=extremeXdev&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=extremeXdev&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=extremeXdev&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br><br>
+  <p><a href="https://www.buymeacoffee.com/extremexdev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Buy Coffee" /></a> </p>
+</div>
+
 
 
 <!-- -->
