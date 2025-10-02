@@ -391,7 +391,7 @@ const extremeXdev = {
         - A Next-Generation Fund Management Firm's Project<br/>
         - Focus On Tokenization + Innovative Hedge Funds Services.<br/>
         - Quant and Systematic Trading tools backed by AI<br/>
-        - Designed API (Tentacular API) for easy integration and extensible SaaS.
+        - Designed API (Tentacular API) for easy integration and extensible SaaS.<br/>
         - Rich Ecosystem Of Financial Services 👌.
         </div>
       </td>
