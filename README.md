@@ -366,7 +366,7 @@ const extremeXdev = {
       </td>
       <td>           
         <div>
-        <b> <i>WSP AI TradeStation Manual (1st Edition)</i> </b> 
+        <b> <i>WSP AI TradeStation Manual (Public Edition)</i> </b> 
         <br><br>
         WALL STREET PLAYER – WSP
         Next-Gen trading tool simplified for daily trader tasks.
