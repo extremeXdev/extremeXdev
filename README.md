@@ -358,9 +358,9 @@ const extremeXdev = {
     </tr>
   </thead>
   -->
-  <tbody tyle="border: none;">
-    <tr tyle="border: none;">
-      <td width="300" tyle="border: none;">
+  <tbody style="border: none;">
+    <tr style="border: none;">
+      <td width="300" style="border: none;">
         <picture> <img align="left" src="assets/images/cover-design.jpg" style="background:rgba(0,0,0,0)" height="300" width="auto" min-width="26%" >
         </picture>
       </td>
