@@ -348,7 +348,7 @@ const extremeXdev = {
 <!-- -->
 
 <!-- -->
-<table>
+<table border="none">
 <!--
   <thead>
     <tr>
