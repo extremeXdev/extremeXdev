@@ -347,11 +347,63 @@ const extremeXdev = {
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW0wZWptYTAwMTh1dHlrbzNmcHNidDFnNnMyenkxeHQ5Y2ZwOWRjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwSG1QKOwDjQk/giphy.gif" width ="40"><b> Authors</b>
 <!-- -->
 
+<!-- -->
+<table>
 <!--
-<div align="center">
-  
-</div>
--->
+  <thead>
+    <tr>
+      <th>Header 1</th>
+      <th>Header 2</th>
+      <th>Header 3</th>
+    </tr>
+  </thead>
+  -->
+  <tbody>
+    <tr>
+      <td width="300">
+        <picture> <img align="left" src="assets/images/cover-design.jpg" style="background:rgba(0,0,0,0)" height="300" width="auto" min-width="26%" >
+        </picture>
+      </td>
+      <td>           
+        <div>
+        <b> <i>WSP AI TradeStation Manual (1st Edition)</i> </b> 
+        <br><br>
+        WALL STREET PLAYER – WSP
+        Next-Gen trading tool simplified for daily trader tasks.
+        We use a private cutting-edge WSP tool and we released a public lite but powerful version to those professionals operating in Financial Markets.
+        Its simplicity allows even newcomers get edge and be comfortable with disciplinary and fast executor quantitative trading tool. On-board professionalism is at rendezvous. It has been issued first on MetaTrader5 platform, coming soon with others like Ninja Trader, Trader Station, Interactive Broker Trader Workstation, and so on.
+        <br>
+        <p> 👉 <a href="https://drive.google.com/file/d/1GCkR_RMYMIPqQ7aOn-hPGwi74FpswTYb/view?usp=drivesdk">Must-Read!</a>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<table>
+  <tbody>
+    <tr>
+      <td>           
+        <div>
+        <b> <i>CHAINCAP Blueprint (as Product Manager)</i> </b> 
+        <br><br>
+        - A Next-Generation Fund Management Firm's Project<br/>
+        - Focus On Tokenization + Innovative Hedge Funds Services.<br/>
+        - Quant and Systematic Trading tools backed by AI<br/>
+        - Designed API (Tentacular API) for easy integration and extensible SaaS.
+        - Rich Ecosystem Of Financial Services 👌.
+        </div>
+      </td>
+      <td width="300">
+        <picture> <img align="left" src="assets/images/chaincap-blueprint.png" style="background:rgba(0,0,0,0)" height="300" width="auto" min-width="26%"  >
+        </picture>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!-- -->
+
 
 
 
