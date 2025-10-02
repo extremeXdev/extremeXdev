@@ -3,6 +3,7 @@
   <link rel="stylesheet" href="path/to/your/googlefont.css">
 </head>
 <body>
+<div> <!--  <div style ="background-color: black; color: white;>  -->
 
 
 <!-- -->
@@ -353,6 +354,27 @@ const extremeXdev = {
 -->
 
 
+
+<!-- -->
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW0wZWptYTAwMTh1dHlrbzNmcHNidDFnNnMyenkxeHQ5Y2ZwOWRjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwSG1QKOwDjQk/giphy.gif" width ="40"><b> Featured Porfolios</b>
+<!-- -->
+
+<!-- -->
+<div align="center">
+<br> 
+    <p><img width="80%" src="assets/images/WSP-overview.png"></p>
+    <p>Learn More On a Revolutionary AI TradeStation 👉 <a href="https://www.mql5.com/en/market/product/109915">Visit!</a> 😳
+    <br> This is the first screenshot when the tool began in December 2023</p>
+    <br>
+    <p><b style="text-decoration: underline;">IMPORTANT - WSP AI's Articles</b>
+    <br>A New Revolutionary Tool For The Market Professional 👉 <a href="https://medium.com/@charismajason21/wall-street-player-a-new-revolutionary-ai-trading-tool-for-the-market-professionals-8055dcd8fedc">Visit!</a> <br>
+    Secret Market Makers' Tools Open Partly public 👉 <a href="https://medium.com/@charismajason21/wall-street-player-the-greatest-trading-risk-and-money-management-tool-kept-secret-and-now-made-fb3e4d838416">Visit!</a></p>
+<br>    
+</div>
+<!-- -->
+
+
+
 <!-- -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> <b><i>See You Soon!</i></b> 😉
 <!-- -->
@@ -380,5 +402,6 @@ const extremeXdev = {
 </div>
 
 
+</div>
 </body>
 </html>
