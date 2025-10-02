@@ -56,7 +56,7 @@
 - Your On Demand Product Manager/Owner  <br/>
 - Your On Demand Algorist / Director of algorithmic Trading<br/>
 - Dedicated Cybersecurity Teams <br/>
-- Customized software in Finance, AI, Blockchain, and any domain <br/>
+- Customized software in Finance, AI, Blockchain, (...) <br/>
 - On-Demand Remote Team (Dedicated genius Teams for your ambitious software)
 </div>
 <br>
@@ -362,7 +362,7 @@ const extremeXdev = {
 <!-- -->
 <div align="center">
 <br> 
-    <p><img width="80%" src="assets/images/WSP-overview.png"></p>
+    <p><img min-width="546" width="80%" src="assets/images/WSP-overview.png"></p>
     <p>Learn More On a Revolutionary AI TradeStation 👉 <a href="https://www.mql5.com/en/market/product/109915">Visit!</a> 😳
     <br> This is the first screenshot when the tool began in December 2023</p>
     <br>
