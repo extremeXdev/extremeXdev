@@ -421,7 +421,7 @@ const extremeXdev = {
         This book cover Accurate Strategy, Risk Management, Money Management,
         And How to Reach amazing results with both Small and Institutional Grade Capital, with meticulous Metrics on the probability and number games. The main topic is How to trade Volatile Market. The Momentum Strategy described herein empower Market Makers to handle and trade the market in any market condition, with the best accuracy on predicting, following prices actions and market move (waves) with such great precision.
         <br>
-      
+        <p>
         </div>
       </td>
     </tr>
