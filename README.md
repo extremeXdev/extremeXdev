@@ -405,6 +405,29 @@ const extremeXdev = {
 <!-- -->
 
 
+<!-- -->
+<table style="border: none;">
+  <tbody>
+    <tr>
+      <td width="300">
+        <picture> <img align="left" src="assets/images/spr-trading-guide.png" style="background:rgba(0,0,0,0)" height="300" width="auto" min-width="26%" >
+        </picture>
+      </td>
+      <td>           
+        <div>
+        <b> <i>Supreme Trading Guide (as Quant and Strategy Researcher)</i> </b> 
+        <br><br>
+        Supreme Trading Guide – Empowering Institutional Grade Trading. 
+        This book cover Accurate Strategy, Risk Management, Money Management,
+        And How to Reach amazing results with both Small and Institutional Grade Capital, with meticulous Metrics on the probability and number games. The main topic is How to trade Volatile Market. The Momentum Strategy described herein empower Market Makers to handle and trade the market in any market condition, with the best accuracy on predicting, following prices actions and market move (waves) with such great precision.
+        <br>
+      
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 <!-- -->
