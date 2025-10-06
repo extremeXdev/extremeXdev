@@ -396,7 +396,7 @@ const extremeXdev = {
         </div>
       </td>
       <td width="300">
-        <picture> <img align="left" src="assets/images/chaincap-blueprint.png" style="background:rgba(0,0,0,0)" height="300" width="auto" min-width="26%"  >
+        <picture> <img align="left" src="assets/images/chaincap-blueprint.jpg" style="background:rgba(0,0,0,0)" height="300" width="auto" min-width="26%"  >
         </picture>
       </td>
     </tr>
@@ -410,7 +410,7 @@ const extremeXdev = {
   <tbody>
     <tr>
       <td width="300">
-        <picture> <img align="left" src="assets/images/spr-trading-guide.png" style="background:rgba(0,0,0,0)" height="300" width="auto" min-width="26%" >
+        <picture> <img align="left" src="assets/images/spr-trading-guide.jpg" style="background:rgba(0,0,0,0)" height="300" width="auto" min-width="26%" >
         </picture>
       </td>
       <td>           
