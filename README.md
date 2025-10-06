@@ -419,7 +419,7 @@ const extremeXdev = {
         <br><br>
         Supreme Trading Guide – Institutional Grade Trading. 
         This book cover Accurate Strategy, Risk Management,
-        And How to Reach amazing results with both Small and Institutional Grade Capital, with meticulous metrics on probability and number games. The main topic is How to trade Volatile Market. The Momentum Strategy described herein empowers Market Makers to handle and trade the market in any market condition, with the best accuracy on predicting, following next market move (waves).
+        And How to Reach amazing results with both Small and Institutional Grade Capital, with meticulous metrics on probability and number games. The main topic is How to trade Volatile Market. The Momentum Strategy described herein empowers Market Makers to handle and trade the market in any market condition, with the best accuracy on predicting and following next market move.
         <br>
         <p>
         </div>
